@@ -4,3 +4,5 @@ $("div#tlogins button.btn.btn-primary").click(function(){setTimeout(function(){r
 $(` <center><div><marquee 
 direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >   <font color="#FFFFFF">✧     ● • . الحائط للنشر فقط . • ●    </font>
  </marquee></font></div><center>`).insertBefore('div#d2bc');
+$(` <center><div style=" width: 100%;height: auto!important; "  id="sa" margin: 2px;" class="fa fa-heartbeat btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">&nbsp;  •( إضغط هنا إرح سمعّك مع القرآن )• &nbsp;</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>هزآع البلوشي</p><audio controls loop="" play=""><source src="https://www.jawalhost.com/quran.mp3"></audio></div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary');
+
