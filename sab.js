@@ -17,25 +17,6 @@ $(` <center><div><marquee
 direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >   <font color="#FFFFFF">✧     ● • . الحائط للنشر فقط * يرجى الالتزام بقوانين الجدار رجاءآ . • ●    </font>
  </marquee></font></div><center>`).insertBefore('div#d2bc');
 $(` <center><div style=" width: 100%;height: auto!important; "  id="sa" margin: 2px;" class="fa fa-heartbeat btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">&nbsp;  •( إضغط هنا إرح سمعّك مع القرآن )• &nbsp;</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>هزآع البلوشي</p><audio controls loop="" play=""><source src="https://www.jawalhost.com/quran.mp3"></audio></div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary');
-$(`
- <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
- <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(pic/1dl1qds5g10.jpg);" class="fl fitimg hand u-pic    ">
- <div class="uzr fl" style="padding:0px;width:80%">
- <div style="padding:0px;width:100%;" class="fl">
- <img class="fl u-ico" alt="" src="https://s6acl.com/sico/z1d545pgp610.jpg">
- <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand"> ادارة صبايا كول	  </span>
- </div>
- <br>
- <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">
- <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl"> مرحبآ بك <h1 style="display: inline-block;color: red;">`+ getuser(myid).topic+ `</h1> نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله </div>
- </div>
- </div></div>
- `).appendTo('div#d2')
- clearInterval(myVar);
- 
- }else{console.log(usmsgw)} }, 2000);
- })
-$(`<link href="https://fonts.googleapis.com/css?family=El+Messiri:700" rel="stylesheet"><link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=sky-bold" />
 $(`<style>
 .fr.borderg,.fr.borderg a{padding:0 6px!important;color:#2b3e52;border:0}.fr.borderg{margin-top:0;height:0;top:110px;color:#76947c;box-shadow:inset 0 0 0 0 #000}a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 br,div#l3 br{display:none}label.fl.label.loginstat{border-radius:15px!important;margin-left:-1px!important;background-color:#1e90aa;margin-top:1px}a.label.label-primary.fl{border-radius:3px!important;padding:5px!important;margin-bottom:2px;text-align:center!important}label.label.label-primary.mini.fl{width:87.5%!important;padding:1px;margin-top:0;border-radius:15px!important}div#l1 input#u1{width:80%;margin-left:38.5px!important;margin-left:1px}div#l3 button{margin-top:13px;width:30%}div#l2 button,div#l3 button{border:1px solid #fff!important;border-radius:24px!important;height:28px}div#l1 input#u1{border-radius:15px;border:1px solid #e1e0e0;margin-top:3px;text-align:center;border-right:7px solid;border-left:7px solid;border-color:#1e90aa}div#l2 input#u2{width:66%;padding:0!important;float:right;margin:2px 5px 2px 0}div#l2 input#pass1{width:55%;padding:0!important;float:right;margin:2px 25px 2px 0}div#l3 input#pass2{width:55%;padding:0!important;float:right;margin:2px 25px 2px 0}div#l3 input#u3{width:66%;padding:0!important;float:right;margin:2px 5px 2px 0}.checkbox{top:5px!important;margin-left:35px!important}div#l2 input#u2,div#l3 input#u3{margin-left:-6px;border-radius:15px;border:1px solid #e1e0e0;text-align:center;border-right:7px solid;border-left:7px solid;border-color:#1e90aa}div#l2 input#pass1,div#l3 input#pass2{border-radius:15px;border:1px solid #e1e0e0;text-align:center;border-right:7px solid;border-left:7px solid;border-color:#1e90aa}div#l2,div#l3{padding:2px!important}div#l1{margin:0 1px -18px;padding:0!important}div#l1,div#l2,div#l3{border-bottom:2px solid;margin-bottom:2px;border-top:2px solid;margin-top:0;border-color:#1e90aa;border-radius:15px;height:62px}div#l1 button{border-radius:24px!important;width:60%;height:28px;border:1px solid #fff!important;margin-left:75.5px!important}div#l2 button{width:30%}button.ssss.btn.fr.btn-warning.fa.fa-paint-brush{display:none}ul.nav.nav-tabs>li>a{color:#fff;border:none;text-align:center;background-color:#1e90aa;border-radius:3px;display:initial;width:80%;float:left;padding:0!important}ul.nav.nav-tabs>li.active>a{color:#fff;background-color:#1e90aa;border:none;border-radius:3px}ul.nav.nav-tabs>li{width:32%;margin:0 5px 0 0}ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before{float:right;margin-right:-26%;border:1px solid;padding:0 2px 1px;border-radius:3px;width:23px;text-align:center;background-color:#fff;color:#1e90aa}.nav>li>a:focus,.nav>li>a:hover{color:#9abff9}ul.nav.nav-tabs{margin-top:1px;float:right;width:100%;padding:1px 1px}
 
