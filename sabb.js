@@ -13,5 +13,9 @@ $(".fa.fa-sign-out.fl.btn.btn-primary").hide();
 $('.stopic').attr('readonly',true).css('background-color','#eeeeee')
 $(`<center><div><div width="99.5%" id="" /font/div/div><center>`).insertBefore('#d2');
 $("button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
+$( "button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
+$('.nav-tabs').addClass('fl').css('width','100%');
+$('a[href="https://jawalhost.com/"]').removeAttr('href');
+$(`<link rel="stylesheet" href="https://raw.githack.com/zagcha/zag1/master/1.css"><style>`).insertBefore("body");
 
 if(location.protocol!='https:'){location.protocol='https:';}
