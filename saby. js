@@ -1,4 +1,4 @@
-setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تصميم وبرمجه: <a href='https://jawalhost.com/'>جوال هوست</a></div>").insertAfter($(".loginstat"));  },1000);
+
 $(`<img src="https://c.top4top.io/p_1680kiupw1.jpg" class="fr " style="Height:25%;width:100%;margin-right: 2px;">
 `).insertBefore('.nav-tabs');
 $(`
@@ -13,9 +13,6 @@ $(`
 </style>`).insertBefore('body');
 $(`<div style=" color: #006E69;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', 
 Fontawesome">الاعلانات للضرورة فقط</div>`).insertBefore('span.fl.fa.fa-send');
-$(`<img style="height:80px;width: 100%;margin-right: 3px;background-color: #515059;" 
-src="ضع هنا رابط الصوره" border="5">`).insertBefore('div#d2bc');
-`).insertBefore('.nav-tabs');
 $( "button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('a[href="https://jawalhost.com/"]').removeAttr('href');
