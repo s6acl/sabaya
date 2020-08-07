@@ -13,6 +13,6 @@ $(`
 </style>`).insertBefore('body');
 $(`<div style=" color: #006E69;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', 
 Fontawesome">الاعلانات للضرورة فقط</div>`).insertBefore('span.fl.fa.fa-send');
-$.getScript("https://raw.githack.com/s6acl/sabaya/master/sabb.js");$( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
+$.getScript("https://raw.githack.com/s6acl/sabaya/master/sab.js");$( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
 $(".label-primary").css("border-radius","15px 15px 15px 15px")
 $('.break.light').css({"background-html":"url(https://raw.githack.com/zagcha/Ne/master/zag.html )"});
