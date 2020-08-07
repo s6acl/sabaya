@@ -1,7 +1,7 @@
 msgt=100;
 bct=100;
 if(location.protocol!='https:'){location.protocol='https:';}
-$(`<img src="https://c.top4top.io/p_1680kiupw1.jpg" class="fr" style="width:100%;margin-top: 0px;">
+$(`<img src="sico/z1dvp1m68i10.gif" class="fr" style="width:100%;margin-top: 0px;">
 <a id="des3" href="img.html" style="transform:matrix(1, 0, 0, 1, 150, 112);border: 1px solid white;border-radius: 0px 15px 0px 0px!important;width:10%;margin:-138px 2px 2px;" class="fl mini fa fa-image btn btn-primary"></a>
   <a id="des3" href="#" style="border: 1px solid white;transform:matrix(1, 0, 0, 1, 112, 112);border-radius: 0px!important;width:10%;margin:-138px 2px 2px;" class="fl mini fa fa-paint-brush btn btn-primary"></a>
    <a id="des3" href="esh.html" style="transform:matrix(1, 0, 0, 1, 74, 112);border: 1px solid white;border-radius: 0px!important;width:10%;margin:-138px 2px 2px;" class="fl mini fa fa-star btn btn-primary"></a>
