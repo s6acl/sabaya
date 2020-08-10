@@ -14,4 +14,4 @@ $(".ustat").css("width",'12px').css('height','12px').css('border-radius','3em');
 $('.stopic').attr('readonly',true).css('background-color','#eeeeee')
 $(`<center><div><div width="99.5%" id="" /font/div/div><center>`).insertBefore('#d2');
 $(`<div style=" color: #006E69;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', 
-Fontawesome">اتصال</div>`).insertBefore('.fa.fa-phone.call.fl.btn.btn-success');
+Fontawesome">اتصال</div>`).insertBefore('.fa.fa-phone.call');
