@@ -1,6 +1,5 @@
 $(`<img style="height:50px;width: 100%;margin-right: 3px;background-color: #DE2500;" src="https://s6acl.com/sico/z1douaddh610.jpg" border="0">`).insertBefore('div#d2bc');
 $(".fa-gear").text("الاعدادات").css("width","");
-$(".fa-users").text("الـغـرف").css("width","");
 $(".fa-sign-out").text("خروج").css("width","");
 $(".fa.fa-phone.call.fl.btn.btn-success").visible("true");
 $("div#tlogins button.btn.btn-primary").click(function(){setTimeout(function(){refreshonline()},0)}),$("#d0").append(`<label title="اذاعة شات صبايا كول"href="#"onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},0);$('.dpnl').show();"data-toggle="tab" data-target="#mic" class="ae fa label label-primary "><i class="fa fa-volume-up" aria-hidden="true">الاذاعـه</i></label>`);
