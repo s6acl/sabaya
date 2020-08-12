@@ -1,0 +1,253 @@
+.hand.corner {
+    top: 1px!important
+
+}
+
+.ae.fa.chats.label.fa-comment.label-warning.fa-comment:before,.ae.fa.chats.label.fa-comment.label-primary.fa-comment:before {
+    content: "الخاص"
+}
+
+.popover.fade.top.in {
+    position: absolute;
+    max-width: 250px!important;
+    max-height: 200px;
+    overflow: auto
+}
+
+.btn.hand.borderg.corner {
+    width: 32px;
+    height: 33px
+}
+
+.popover.right {
+    max-width: 100%;
+    max-height: 400px;
+    overflow: auto;
+    width: 100%;
+    margin-left: -109px
+}
+
+h3.popover-title,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before,.fa-group:before,.fa-users:before,span.border,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before,.fa-envelope-o:before,.fa-diamond:before,.fa-search:before,.fa-ban:before,.fa-ban:before,.fa-user-times:before {
+    display: none
+
+}
+
+.u-msg.break.fl,.fl.u-msg,.uzr {
+    -webkit-user-select: none
+}
+
+body {
+    background-color: #e2e2e2!important
+}
+
+span.busers.minix.badge.border {
+    display: -webkit-inline-box;
+    background-color: #ffffff00
+}
+
+.fr.co,.fl.mini.u-co {
+    display: none
+}
+
+.border {
+    border: 1px solid #e8e8e8
+}
+
+.ae {
+    border: 1px solid #e4e4e4!important;
+    border-radius: 3px;
+    margin: 0
+}
+
+span.border {
+    border: none
+}
+
+.label-primary,.btn-primary,.bg-primary,.label-primary:hover,.btn-primary:hover,.btn-primary:focus,.label-primary,.btn-primary {
+    border: 1px solid #fff
+}
+
+.tbox {
+    padding: 5px;
+    min-height: 32px
+
+}
+
+div#asim13 {
+    width: 49%;
+    top: 122px;
+    position: absolute;
+    left: 3px;
+    background: #fff
+}
+
+div#l1 {
+    padding: 16.8px!important
+}
+
+.emoi {
+    width: auto;
+    max-width: -webkit-fill-available
+}
+
+.u-msg.break.fl {
+    line-height: 26px!important
+}
+
+body.bg.center-block.bg.dad div#tlogins {
+    width: auto!important;
+    height: auto!important
+}
+
+div#l3,div#l2,div#l1 {
+    margin-bottom: 24px
+}
+
+.fr.borderg {
+    border-top: 1px dotted #fff!important;
+    margin-right: 0!important;
+    top: 295px;
+    background-color: #6f5a51!important;
+    border: none;
+    float: left;
+    left: 0;
+    /* position: absolute; */
+    width: 81.4%!important;
+    height: 22px;
+    /* border-radius: 0!important; */
+    border: 1px solid #fff0;
+}
+
+.fr.borderg,.fr.borderg a {
+    font-size: 12px!important;
+    padding: 0 0 0 2px !important;
+    color: #fff
+}
+
+#as43 {
+    top: 295px;
+    position: absolute;
+    width: 37%!important;
+    height: 22px;
+    padding: 1px 0 0;
+    border-radius: 25px!important;
+    right: 120px;
+    font-size: 12px!important;
+    color: #f9f9f9;
+    border-left: 6px solid #fff;
+    border-right: 6px solid #f8f8f8
+}
+
+a.label.label-primary.fl {
+    display: none
+}
+
+.fa-user-times {
+    margin: 0!important;
+    background-color: #FFF;
+    top: 0!important;
+    margin-left: -368px!important;
+    transform: rotate(-90deg);
+    width: 123px!important;
+    margin-top: -240px!important
+}
+
+.ukick {
+    margin: 0!important;
+    width: 60px!important;
+    background-color: #FFF!important;
+    margin-top: 14px!important;
+    margin-left: -60px!important;
+    position: absolute;
+    top: 1px
+}
+
+.uban {
+    margin: 0!important;
+    width: 60px!important;
+    background-color: #FFF;
+    margin-top: 73px!important;
+    margin-left: -61px!important;
+    position: absolute;
+    top: 1px
+}
+
+.emoi {
+    width: auto;
+    max-width: -webkit-fill-available
+}
+
+.uzr.fl.corner.borderg.hmsg.mm {
+    background-color: #fff!important
+}
+
+.bgg.border.corner {
+    right: 1px
+}
+
+.callnot {
+    position: absolute!important;
+    top: 1px!important;
+    margin-left: 0!important;
+    left: 1px
+}
+
+div#tlogins .fl.mini.u-msg {
+    display: none;
+    display: none
+}
+
+.uzr.fl.corner.borderg.mm {
+    margin-left: 0!important;
+    border-radius: 0!important;
+    width: 100%!important;
+    margin-bottom: -1px!important;
+    border: 1px solid hsl(186,45%,88%)
+}
+
+.fl.mini.fa.fa-microphone.btn.btnn-default,.fl.mini.fa.fa-phone.btn.btnn-default {
+    font-size: 14px!important;
+    width: 49%;
+    background-color: hsl(134,46%,46%)!important;
+    color: hsl(0,0%,100%);
+    text-align: center;
+    border-radius: 15%
+}
+
+.fl.mini.fa.fa-microphone.btn.btnn-default {
+    margin-left: 5px;
+    margin-left: 5px
+}
+
+input[type="asim"] {
+    font-size: 14px!important;
+    width: 59%;
+    text-align: center;
+    border-radius: 15%;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    margin-left: 5px
+}
+
+#asim29 {
+    height: 100px;
+    width: 63%
+}
+
+a.fl.mini.fa.fa-bullhorn.btn.label-primary {
+    font-size: 14px!important;
+    width: 38%;
+    background-color: hsl(190,38%,37%)!important;
+    color: hsl(0,0%,100%);
+    text-align: center;
+    border-radius: 15%;
+    margin-bottom: 6px;
+    margin-top: 7px;
+    height: 24px;
+    padding: 3px 0;
+    margin-left: 2px
+}
+
+div#mic {
+    background-color: #f2f2f2
+}
