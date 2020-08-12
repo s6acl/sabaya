@@ -9,3 +9,4 @@ $(` <center><div style=" width: 100%;height: auto!important; "  id="sa" margin: 
 $("div#tlogins input").attr("maxlength",13),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
 $(".ustat").css("width",'12px').css('height','12px').css('border-radius','3em');
 $(`<center><div><div width="99.5%" id="" /font/div/div><center>`).insertBefore('#d2');
+$('.hand.nosel.fl.uzr.border').css({'margin': '1px 0',borderRight: '3px solid #FFFFFF',borderLeft: '3px solid #E0E0E0',borderTop: '1px solid #E0E0E0',borderBottom: '1px solid #FFFFFF',paddingTop: '3px',borderRadius: '5px'});
