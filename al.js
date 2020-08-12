@@ -4,11 +4,11 @@ $(`
 
 </style>
 <link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
-<link rel="stylesheet" href="https://raw.githack.com/zagcha/d3/master/zag1.css">
-<link rel="stylesheet" href="https://cdn.statically.io/gh/ita7a/ita7a.com1/4d477d29/ita7a.css">
-<link rel="stylesheet" href="https://raw.githack.com/Zagchatt/new/master/zag.css">
-<link rel="stylesheet" href="https://raw.githack.com/zagcha/v1/master/new1.css">
-<link rel="https://raw.githack.com/zagcha/newj/master/zag.css">
+<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a1.css">
+<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a2.css">
+<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a3.css">
+<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a4.css">
+<link rel="https://raw.githack.com/s6acl/sabaya/masterza5.css">
 </style>`).insertBefore('body');
 $(`<div style=" color: #006E69;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', 
 Fontawesome">الاعلانات للضرورة فقط</div>`).insertBefore('span.fl.fa.fa-send');
