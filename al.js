@@ -5,8 +5,8 @@ $(`
 </style>
 <link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
 <link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a1.css">
-<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a2222.css">
-<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a3.css">
+<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a2.css">
+<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a333.css">
 <link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a4.css">
 <link rel="https://raw.githack.com/s6acl/sabaya/masterza5.css">
 </style>`).insertBefore('body');
