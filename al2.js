@@ -14,6 +14,6 @@ direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="t
  </marquee></font></div><center>`).insertBefore('div#d2bc');
 $(` <center><div style=" width: 100%;height: auto!important; "  id="sa" margin: 2px;" class="fa fa-heartbeat btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">&nbsp;  •( إضغط هنا إرح سمعّك مع القرآن )• &nbsp;</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>ارح مسامعك</p><audio controls loop="" play=""><source src="https://j.top4top.io/m_1592gehs81.mp3"></audio></div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary');
 $("div#tlogins input").attr("maxlength",13),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
+$(".ubnr").remove(); 
 $(".ustat").css("width",'12px').css('height','12px').css('border-radius','3em');
-$('.stopic').attr('readonly',true).css('background-color','#eeeeee')
 $(`<center><div><div width="99.5%" id="" /font/div/div><center>`).insertBefore('#d2');
