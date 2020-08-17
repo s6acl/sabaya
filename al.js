@@ -7,7 +7,7 @@ $(`
 <link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a1.css">
 <link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a2.css">
 <link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a3.css">
-<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a444.css">
+<link rel="stylesheet" href="https://raw.githack.com/s6acl/sabaya/master/a6.css">
 <link rel="https://raw.githack.com/s6acl/sabaya/masterza5.css">
 </style>`).insertBefore('body');
 $(`<div style=" color: #006E69;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', 
